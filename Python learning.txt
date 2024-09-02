@@ -1,0 +1,11 @@
+Python learning:-
+
+Type Casting-> conversion of one datatype into another
+
+Conditionals
+Loops
+Data Structure
+Function
+
+lower() -> converting to lower case
+upper() -> converting to upper case
